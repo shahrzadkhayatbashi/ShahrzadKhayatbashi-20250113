@@ -1,0 +1,14 @@
+urllib3==1.26.7
+numpy
+pandas
+pyarrow
+fastparquet
+matplotlib
+seaborn
+scikit-learn
+ipykernel
+pm4py
+neo4j
+dfgcompare
+jupyter
+jupyterlab
