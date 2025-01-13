@@ -16,7 +16,7 @@ The analysis is structured into multiple Jupyter notebooks, each focusing on a s
 │   ├── 03_extract_xes.ipynb              # Preparing data for process mining and event analysis.
 │   └── 04_analysis.ipynb                 # Exploratory data analysis, visualizations, and insights.
 ├── Shahrzad-20250112-Presentation.pptx   # Presentation of the result
-├── requirement.txt   # Used Python Libraries. 
+├── requirement.txt                       # Used Python Libraries. 
 └── README.md                             # Project documentation.
 ```
 
